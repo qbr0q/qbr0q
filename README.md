@@ -1,7 +1,8 @@
 <h1 align="center">Привет, я Максим 👋</h1>
 
 <p align="center">
-<div class="tenor-gif-embed" data-postid="15917223090870993821" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/feelsdankman-feelsdank-dank-pepe-pepe-the-frog-gif-15917223090870993821">Feelsdankman Pepe Sticker</a>from <a href="https://tenor.com/search/feelsdankman-stickers">Feelsdankman Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+    <img src="https://tenor.com/mVhXuDrHluh.gif" width="300" />
 </p>
 
 ---
