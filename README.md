@@ -50,7 +50,7 @@
 ## 📫 Контакты
 
 <p align="center">
-  <a href="https://t.me/твойник"><img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white"/></a>
-  <a href="mailto:you@email.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/твойник"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://t.me/qbr0q"><img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white"/></a>
+  <a href="mailto:qbroq@vk.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://spb.hh.ru/resume/9e76a511ff0d05e7a00039ed1f327142706761"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/HeadHunter_logo.svg"/></a>
 </p>
