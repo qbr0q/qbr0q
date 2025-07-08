@@ -1,4 +1,4 @@
-<h1 align="center">Привет, я [Твоё имя] 👋</h1>
+<h1 align="center">Привет, я Максим] 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=00F58C&center=true&width=435&lines=Full-stack+разработчик;Люблю+код+и+кофе;Пишу+на+TS%2C+Go+и+Python" />
@@ -7,21 +7,17 @@
 ---
 
 ## 🧠 Немного обо мне
-
-- 🛠 Сейчас работаю над: **[Название проекта](ссылка)**  
-- 🌍 Живу в: **[Город, страна]**  
-- 📫 Как связаться: **[Telegram](https://t.me/твойник)** / **[почта](mailto:you@email.com)**  
+    
+- 📫 Как связаться: **[Telegram](https://t.me/qbr0q)** / **[почта](mailto:qbroq@vk.com)**  
 - 💬 Люблю говорить о: JS, AI, UX, продуктивности  
-- ⚡ Фанфакт: люблю кодить под lo-fi и записывать туториалы  
+- ⚡ Фанфакт: веду обучающий канал о питоне - **[Telegram](https://t.me/PyCodePro)**
 
 ---
 
 ## 🛠 Технологии и стек
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 
