@@ -10,7 +10,7 @@
     
 - 📫 Как связаться: **[Telegram](https://t.me/qbr0q)** / **[почта](mailto:qbroq@vk.com)**  
 - 💬 Люблю говорить о: JS, AI, UX, продуктивности  
-- ⚡ Фанфакт: веду обучающий канал о питоне - **[Telegram](https://t.me/PyCodePro)**
+- ⚡ Фанфакт: веду обучающий канал о питоне - **[PyCodePro](https://t.me/PyCodePro)**
 
 ---
 
