@@ -1,7 +1,8 @@
-<h1 align="center">Привет, я Максим] 👋</h1>
+<h1 align="center">Привет, я Максим 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=00F58C&center=true&width=435&lines=Full-stack+разработчик;Люблю+код+и+кофе;Пишу+на+TS%2C+Go+и+Python" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" /><br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=00F58C&center=true&width=435&lines=Full-stack+разработчик;Люблю+код+и+кофе;Пишу+на+Go%2C+Python%2C+Bash" />
 </p>
 
 ---
