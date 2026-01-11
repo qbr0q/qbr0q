@@ -7,10 +7,6 @@
   <strong>Fullstack Developer | Python & Go Enthusiast | AI Explorer</strong>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=qbr0q&label=Просмотры%20профиля&color=blue&style=flat-square" alt="Views" />
-</p>
-
 ---
 
 ### 🧠 Обо мне
@@ -48,14 +44,6 @@
     </td>
   </tr>
 </table>
-
----
-
-### 📊 Статистика активности
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=qbr0q&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qbr0q&layout=compact&theme=radical&hide_border=true" width="48%" />
-</p>
 
 ---
 
