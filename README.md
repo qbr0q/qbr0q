@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ваше_имя_на_гитхабе&label=Просмотры%20профиля&color=blue&style=flat-square" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=qbr0q&label=Просмотры%20профиля&color=blue&style=flat-square" alt="Views" />
 </p>
 
 ---
@@ -53,8 +53,8 @@
 
 ### 📊 Статистика активности
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ваше_имя_на_гитхабе&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ваше_имя_на_гитхабе&layout=compact&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=qbr0q&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qbr0q&layout=compact&theme=radical&hide_border=true" width="48%" />
 </p>
 
 ---
